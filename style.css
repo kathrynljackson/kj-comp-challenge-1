@@ -1,0 +1,11 @@
+body {
+  background-color: LightGray;
+}
+
+.header {
+  padding: 60px;
+  text-align: right;
+  background: #303030;
+  color: white;
+  font-size: 30px;
+}
