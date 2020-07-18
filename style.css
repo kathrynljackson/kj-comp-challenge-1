@@ -8,6 +8,7 @@ body {
 .navbar {
   color: black;
   display: flex;
+  background-color: gray;
 }
 
 .navbar div {
@@ -16,22 +17,23 @@ body {
 }
 
 .admin-username {
- color: black;
- display: flex;
- padding: 10px;
- border: 1px black solid;
- justify-content: flex-end;
+  background-color: gray;
+  color: black;
+  display: flex;
+  padding: 10px;
+  border: 1px black solid;
+  justify-content: flex-end;
 }
 
-.shares {
+.learn {
   flex:1;
 }
 
-.contact {
+.read {
   flex:1;
 }
 
-.videos {
+.watch {
   flex:1;
 }
 
