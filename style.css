@@ -58,6 +58,15 @@ body {
   color: white;
 }
 
+.hero-pictures {
+  width: 100px;
+  height: auto;
+  background-size: cover;
+}
+
+box.iron-fist {
+  background-image: url(source-images/iron_fist_comics.jpg)
+}
 
 
 
