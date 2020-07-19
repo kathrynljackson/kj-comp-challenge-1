@@ -8,32 +8,44 @@ body {
 
 .navbar {
 display: flex;
+text-align: center;
+
 }
 
 .navbar div {
   background-color: gray;
   border: 1px black solid;
-  padding: .1%;
-  font-size: 30px;
+  padding: 0;
+  font-size: 20px;
+  display: inline-block;
+}
+
+.navbar .material-icons {
+  font-size: 20px;
+  text-align: center;
 }
 
 .admin {
   background-color: gray;
   color: black;
-  display: flex;
   padding: 10px;
   border: 1px black solid;
-  align: right;
+  text-align: right;
 }
 
 .admin div {
-  display: flex;
+  display: inline-block;
   text-align: right;
   margin-left: auto;
 }
 
 .learn {
   flex:1;
+}
+
+.learn div {
+  justify-content: center;
+  align-items: center;
 }
 
 .read {
@@ -45,7 +57,7 @@ display: flex;
 }
 
 .nav-icon {
-  flex: 2;
+  flex: 3;
 }
 
 .navbar i {
@@ -67,12 +79,12 @@ display: flex;
 
 .nav-icon {
   text-align: right;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .hero-profiles {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   flex-wrap: wrap;
   padding: 10px;
 }
@@ -104,10 +116,11 @@ display: flex;
 }
 
 .views {
-  align-self: flex-end;
-  padding: 2%;
+  justify-content: flex-end;
   color: white;
-  text-shadow: 0px 0px 10px black
+  text-shadow: 0px 0px 10px black;
+  font-size: 20px;
+
 }
 
 .user-input {
@@ -118,16 +131,6 @@ display: flex;
   background-color: LightGray;
   color: DarkGray;
   border: none;
-}
-.hero-info {
-  padding: 5px;
-  box-shadow: none;
-}
-
-.hero-info div {
-  padding: 5px;
-  box-shadow: none;
-  margin: 0;
 }
 
 
@@ -174,6 +177,54 @@ display: flex;
 }
 
 .silver-sable .hero-info {
+  margin: 0;
+  padding: 5%;
+  box-shadow: none;
+}
+
+.colleen-wing .hero-pictures {
+  background-image: url(source-images/colleen_wing.jpg);
+  margin: 0;
+  box-shadow: none;
+}
+
+.colleen-wing .hero-info {
+  margin: 0;
+  padding: 5%;
+  box-shadow: none;
+}
+
+.misty-knight .hero-pictures {
+  background-image: url(source-images/misty_knight.jpg);
+  margin: 0;
+  box-shadow: none;
+}
+
+.misty-knight .hero-info {
+  margin: 0;
+  padding: 5%;
+  box-shadow: none;
+}
+
+.moon-knight .hero-pictures {
+  background-image: url(source-images/moon_knight.jpeg);
+  margin: 0;
+  box-shadow: none;
+}
+
+.moon-knight .hero-info {
+  margin: 0;
+  padding: 5%;
+  box-shadow: none;
+}
+
+.punisher .hero-pictures {
+  background-image: url(source-images/the_punisher.jpg);
+  margin: 0;
+  box-shadow: none;
+}
+
+.punisher .hero-info {
   margin: 0;
   padding: 5%;
   box-shadow: none;
