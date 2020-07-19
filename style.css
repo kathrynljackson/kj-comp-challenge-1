@@ -153,18 +153,6 @@ flex-grow: 1;
   padding-right: 7px;
 }
 
-.navbar div.hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.navbar div.active {
-  background-color: #4CAF50;
-  color: white;
-
-}
-
-
 .nav-icon {
   text-align: right;
   border: 10px black;
