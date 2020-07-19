@@ -40,10 +40,30 @@ The purpose of this project is to learn how to design a webpage using only CSS a
 - had extra time to help others
 
 
+## Sample Images
+
+### original static comp
+[image here]
+
+
+### I combined the layout of the given static comp with my love of comic books. Here, I can designed a fiction-inspired webpage that can be used to hire the hero of your choice. Each profile gives the hero's name, experience, teams, and hero type, as well as a user input box that could be used (with the help of Javascript which was not used in this project per instructions) to send an inquiry to your hero.
+
+
+### Hover effects give the user a clear understanding of what parts of the site can be interacted with. In the screenshots below, there are examples of how each component responds to the hover interaction.
+
+
+### Hyperlinks are used throughout the webpage, with the most apparent being the menu at the top. Learn, read, and write all redirect the user to outside sites in a new window. The user can learn about various heroes, read their stories, and even watch videos that cover the heroes' history.
+
+
+### The Admin Login redirects the user to an outside login page.
+
+
+### Each hero's profile box has a white user icon in the top left corner of thier picture. By clicking on this picture, the user can read a complete history of that hero.
+
+
+### The site is responsive and can be used on computers, tablets, and phones. Here is a view of the site on an iPhone X.
+
+
 ## My GitHub
 
 https://github.com/kathrynljackson
-
-
-
-## Sample Images
