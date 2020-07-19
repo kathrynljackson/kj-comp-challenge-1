@@ -1,0 +1,231 @@
+@media(min-width:700px){
+
+}
+body {
+  background-color: LightGray;
+  font-family: "Arial";
+}
+
+.navbar {
+display: flex;
+text-align: center;
+
+}
+
+.navbar div {
+  background-color: gray;
+  border: 1px black solid;
+  padding: 0;
+  font-size: 20px;
+  display: inline-block;
+}
+
+.navbar .material-icons {
+  font-size: 20px;
+  text-align: center;
+}
+
+.admin {
+  background-color: gray;
+  color: black;
+  padding: 10px;
+  border: 1px black solid;
+  text-align: right;
+}
+
+.admin div {
+  display: inline-block;
+  text-align: right;
+  margin-left: auto;
+}
+
+.learn {
+  flex:1;
+}
+
+.learn div {
+  justify-content: center;
+  align-items: center;
+}
+
+.read {
+  flex:1;
+}
+
+.watch {
+  flex:1;
+}
+
+.nav-icon {
+  flex: 3;
+}
+
+.navbar i {
+  font-size: 15px;
+  padding-right: 7px;
+}
+
+.navbar div.hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.navbar div.active {
+  background-color: #4CAF50;
+  color: white;
+
+}
+
+
+.nav-icon {
+  text-align: right;
+  font-size: 20px;
+}
+
+.hero-profiles {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+
+.hero-profiles div {
+  background-color: white;
+  justify-content: space-between;
+  margin: 1%;
+  flex-basis: 20%;
+  flex-grow: 1;
+  box-shadow: 0px 0px 10px black;
+}
+
+.hero-pictures {
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  color: white;
+  text-shadow: none;
+  margin: 0;
+  padding: 5%;
+  box-shadow: none;
+}
+
+.material-icons {
+  color: white;
+  text-shadow: 0px 0px 10px black
+}
+
+.views {
+  justify-content: flex-end;
+  color: white;
+  text-shadow: 0px 0px 10px black;
+  font-size: 20px;
+
+}
+
+.user-input {
+  width: 100%;
+  height: 50px;
+  flex-grow: 1;
+  font-size: 15px;
+  background-color: LightGray;
+  color: DarkGray;
+  border: none;
+}
+
+
+.iron-fist .hero-pictures {
+  background-image: url(source-images/iron_fist_comics.jpeg);
+  margin: 0;
+  box-shadow: none;
+}
+
+.iron-fist .hero-info {
+  margin: 0;
+  padding: 5%;
+  box-shadow: none;
+}
+
+.luke-cage .hero-pictures {
+  background-image: url(source-images/luke_cage.jpg);
+  box-shadow: none;
+  margin: 0;
+}
+
+.luke-cage .hero-info {
+  margin: 0;
+  padding: 5%;
+  box-shadow: none;
+}
+
+.she-hulk .hero-pictures {
+  background-image: url(source-images/she-hulk.jpg);
+  box-shadow: none;
+  margin: 0;
+}
+
+.she-hulk .hero-info {
+  margin: 0;
+  padding: 5%;
+  box-shadow: none;
+}
+
+.silver-sable .hero-pictures {
+  background-image: url(source-images/silver-sable.jpg);
+  box-shadow: none;
+  margin: 0;
+}
+
+.silver-sable .hero-info {
+  margin: 0;
+  padding: 5%;
+  box-shadow: none;
+}
+
+.colleen-wing .hero-pictures {
+  background-image: url(source-images/colleen_wing.jpg);
+  margin: 0;
+  box-shadow: none;
+}
+
+.colleen-wing .hero-info {
+  margin: 0;
+  padding: 5%;
+  box-shadow: none;
+}
+
+.misty-knight .hero-pictures {
+  background-image: url(source-images/misty_knight.jpg);
+  margin: 0;
+  box-shadow: none;
+}
+
+.misty-knight .hero-info {
+  margin: 0;
+  padding: 5%;
+  box-shadow: none;
+}
+
+.moon-knight .hero-pictures {
+  background-image: url(source-images/moon_knight.jpeg);
+  margin: 0;
+  box-shadow: none;
+}
+
+.moon-knight .hero-info {
+  margin: 0;
+  padding: 5%;
+  box-shadow: none;
+}
+
+.punisher .hero-pictures {
+  background-image: url(source-images/the_punisher.jpg);
+  margin: 0;
+  box-shadow: none;
+}
+
+.punisher .hero-info {
+  margin: 0;
+  padding: 5%;
+  box-shadow: none;
+}
