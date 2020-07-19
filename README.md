@@ -1,4 +1,4 @@
-# Hang in there Boilerplate: A Motivational Poster Generator
+# Static Comp Challenge
 
 ## Kathryn Jackson
 
