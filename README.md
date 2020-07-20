@@ -42,7 +42,7 @@ The purpose of this project is to learn how to design a webpage using only CSS a
 ## Challenges
 
 - finding the aspect of CSS that solved my problem
-- learning what changes Javascript is necessary for
+- learning what can and cannot be done without Javascript
 - making the code as dry as possible
 
 
