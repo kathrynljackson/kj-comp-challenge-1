@@ -46,29 +46,46 @@ The purpose of this project is to learn how to design a webpage using only CSS a
 
 ![static-comp-challenge-2](https://user-images.githubusercontent.com/65988644/87888411-ff89b800-c9e9-11ea-8ecc-20f458d49fc4.jpg)
 
+
 ### I created a wireframe to plan out the components of the page.
 
 ![Screen Shot 2020-07-19 at 5 41 09 PM](https://user-images.githubusercontent.com/65988644/87888328-9609a980-c9e9-11ea-9618-065a16604427.png)
 
-![Screen Shot 2020-07-19 at 5 20 48 PM](https://user-images.githubusercontent.com/65988644/87888677-74a9bd00-c9eb-11ea-830a-ba1e353fc7a0.png)
 
-### I combined the layout of the given static comp with my love of comic books. Here, I can designed a fiction-inspired webpage that can be used to hire the hero of your choice. Each profile gives the hero's name, experience, teams, and hero type, as well as a user input box that could be used (with the help of Javascript which was not used in this project per instructions) to send an inquiry to your hero.
+### I combined the layout of the given static comp with my love of comic books. Here, I can designed a fiction-inspired webpage that can be used to hire the hero of your choice. Each profile gives the hero's name, experience, teams, and hero type, as well as a user input box that could be used (with the help of Javascript which was not used in this project per instructions) to send an inquiry to your hero. I applied shadows to the text that may be hard to see otherwise.
+
+![Screen Shot 2020-07-19 at 5 20 35 PM](https://user-images.githubusercontent.com/65988644/87888818-2ba63880-c9ec-11ea-8df6-7f8e11e5721e.png)
+
+
+### Hover effects give the user a clear understanding of what parts of the site can be interacted with. In the screenshots below, there are examples of how each component responds to the hover interaction.
 
 ![Screen Shot 2020-07-19 at 6 08 18 PM](https://user-images.githubusercontent.com/65988644/87888706-9c992080-c9eb-11ea-9674-908265cd474d.png)
+
+![Screen Shot 2020-07-19 at 5 20 48 PM](https://user-images.githubusercontent.com/65988644/87888677-74a9bd00-c9eb-11ea-830a-ba1e353fc7a0.png)
+
+![Screen Shot 2020-07-19 at 5 21 32 PM](https://user-images.githubusercontent.com/65988644/87888753-d66a2700-c9eb-11ea-8513-0ed87b75bca4.png)
 
 
 
 ### Hyperlinks are used throughout the webpage, with the most apparent being the menu at the top. Learn, read, and write all redirect the user to outside sites in a new window. The user can learn about various heroes, read their stories, and even watch videos that cover the heroes' history.
 
+![Screen Shot 2020-07-19 at 5 23 27 PM](https://user-images.githubusercontent.com/65988644/87888861-5db79a80-c9ec-11ea-8857-2d3b267d313c.png)
+
 
 ### The Admin Login redirects the user to an outside login page.
 
+![Screen Shot 2020-07-19 at 5 26 01 PM](https://user-images.githubusercontent.com/65988644/87888893-850e6780-c9ec-11ea-8a29-a859f7f4c44a.png)
 
-### Each hero's profile box has a white user icon in the top left corner of thier picture. By clicking on this picture, the user can read a complete history of that hero.
+### Each hero's profile box has a white user icon in the top left corner of thier picture. By clicking on this picture, the user can read a complete history of that hero. With Javascript, an event on the page could affect the view count. 
 
+![Screen Shot 2020-07-19 at 5 22 00 PM](https://user-images.githubusercontent.com/65988644/87888944-9e171880-c9ec-11ea-98af-32b2693bf44e.png)
+
+
+![Screen Shot 2020-07-19 at 5 22 12 PM](https://user-images.githubusercontent.com/65988644/87888949-a40cf980-c9ec-11ea-91b7-38e51500c9a1.png)
 
 ### The site is responsive and can be used on computers, tablets, and phones. Here is a view of the site on an iPhone X.
 
+![Screen Shot 2020-07-19 at 5 35 53 PM](https://user-images.githubusercontent.com/65988644/87889028-e9312b80-c9ec-11ea-8089-218bc19484fd.png)
 
 ## My GitHub
 
