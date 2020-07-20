@@ -47,7 +47,7 @@ The purpose of this project is to learn how to design a webpage using only CSS a
 
 ### I created a wireframe to plan out the components of the page.
 
-
+![Screen Shot 2020-07-19 at 5 41 09 PM](https://user-images.githubusercontent.com/65988644/87888328-9609a980-c9e9-11ea-9618-065a16604427.png)
 
 ### I combined the layout of the given static comp with my love of comic books. Here, I can designed a fiction-inspired webpage that can be used to hire the hero of your choice. Each profile gives the hero's name, experience, teams, and hero type, as well as a user input box that could be used (with the help of Javascript which was not used in this project per instructions) to send an inquiry to your hero.
 
