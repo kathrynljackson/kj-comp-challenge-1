@@ -73,7 +73,7 @@ The purpose of this project is to learn how to design a webpage using only CSS a
 
 ![Screen Shot 2020-07-19 at 5 20 48 PM](https://user-images.githubusercontent.com/65988644/87888677-74a9bd00-c9eb-11ea-830a-ba1e353fc7a0.png)
 
-![Screen Shot 2020-07-19 at 5 21 32 PM](https://user-images.githubusercontent.com/65988644/87888753-d66a2700-c9eb-11ea-8513-0ed87b75bca4.png)
+![Screen Shot 2020-07-19 at 5 21 28 PM](https://user-images.githubusercontent.com/65988644/87889289-1cc08580-c9ee-11ea-98a7-ce6d5af3fb71.png)
 
 
 
