@@ -81,6 +81,10 @@ The purpose of this project is to learn how to design a webpage using only CSS a
 
 ![Screen Shot 2020-07-19 at 5 23 27 PM](https://user-images.githubusercontent.com/65988644/87888861-5db79a80-c9ec-11ea-8857-2d3b267d313c.png)
 
+![Screen Shot 2020-07-19 at 5 23 55 PM](https://user-images.githubusercontent.com/65988644/87889367-79bc3b80-c9ee-11ea-8367-8bb44d908cb1.png)
+
+![Screen Shot 2020-07-19 at 5 25 39 PM](https://user-images.githubusercontent.com/65988644/87889375-80e34980-c9ee-11ea-86ba-c1307ed4d65f.png)
+
 
 ### The Admin Login redirects the user to an outside login page.
 
