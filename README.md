@@ -50,16 +50,13 @@ The purpose of this project is to learn how to design a webpage using only CSS a
 
 ![Screen Shot 2020-07-19 at 5 41 09 PM](https://user-images.githubusercontent.com/65988644/87888328-9609a980-c9e9-11ea-9618-065a16604427.png)
 
+![Screen Shot 2020-07-19 at 5 20 48 PM](https://user-images.githubusercontent.com/65988644/87888677-74a9bd00-c9eb-11ea-830a-ba1e353fc7a0.png)
+
 ### I combined the layout of the given static comp with my love of comic books. Here, I can designed a fiction-inspired webpage that can be used to hire the hero of your choice. Each profile gives the hero's name, experience, teams, and hero type, as well as a user input box that could be used (with the help of Javascript which was not used in this project per instructions) to send an inquiry to your hero.
 
+![Screen Shot 2020-07-19 at 6 08 18 PM](https://user-images.githubusercontent.com/65988644/87888706-9c992080-c9eb-11ea-9674-908265cd474d.png)
 
-### Hover effects give the user a clear understanding of what parts of the site can be interacted with. In the screenshots below, there are examples of how each component responds to the hover interaction.
 
-<img width="1024" alt="Screen Shot 2020-07-19 at 5 21 28 PM" src="https://user-images.githubusercontent.com/65988644/87888453-39f35500-c9ea-11ea-9f90-7ddd0b39839b.png"
-
-![Screen Shot 2020-07-19 at 5 19 06 PM (2)](https://user-images.githubusercontent.com/65988644/87888519-92c2ed80-c9ea-11ea-90ba-c349413801b2.png)
-
-<img width="1024" alt="Screen Shot 2020-07-19 at 5 20 48 PM" src="https://user-images.githubusercontent.com/65988644/87888443-29db7580-c9ea-11ea-9190-3498aaf884c2.png">
 
 ### Hyperlinks are used throughout the webpage, with the most apparent being the menu at the top. Learn, read, and write all redirect the user to outside sites in a new window. The user can learn about various heroes, read their stories, and even watch videos that cover the heroes' history.
 
