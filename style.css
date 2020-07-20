@@ -1,5 +1,4 @@
-@media screen and (max-width:600px){
-
+@media screen and (max-width:700px){
 
   .admin p {
     text-align: center;
@@ -44,8 +43,6 @@
   .nav-icon div {
     display: hidden;
   }
-
-
 
   .learn {
     display: flex;
