@@ -44,6 +44,7 @@ The purpose of this project is to learn how to design a webpage using only CSS a
 
 ### A static comp was given. The goal is to create a webpage with the same layout.
 
+![static-comp-challenge-2](https://user-images.githubusercontent.com/65988644/87888411-ff89b800-c9e9-11ea-8ecc-20f458d49fc4.jpg)
 
 ### I created a wireframe to plan out the components of the page.
 
@@ -54,6 +55,11 @@ The purpose of this project is to learn how to design a webpage using only CSS a
 
 ### Hover effects give the user a clear understanding of what parts of the site can be interacted with. In the screenshots below, there are examples of how each component responds to the hover interaction.
 
+<img width="1024" alt="Screen Shot 2020-07-19 at 5 21 28 PM" src="https://user-images.githubusercontent.com/65988644/87888453-39f35500-c9ea-11ea-9f90-7ddd0b39839b.png"
+
+![Screen Shot 2020-07-19 at 5 19 06 PM (2)](https://user-images.githubusercontent.com/65988644/87888519-92c2ed80-c9ea-11ea-90ba-c349413801b2.png)
+
+<img width="1024" alt="Screen Shot 2020-07-19 at 5 20 48 PM" src="https://user-images.githubusercontent.com/65988644/87888443-29db7580-c9ea-11ea-9190-3498aaf884c2.png">
 
 ### Hyperlinks are used throughout the webpage, with the most apparent being the menu at the top. Learn, read, and write all redirect the user to outside sites in a new window. The user can learn about various heroes, read their stories, and even watch videos that cover the heroes' history.
 
