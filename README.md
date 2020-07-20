@@ -39,6 +39,12 @@ The purpose of this project is to learn how to design a webpage using only CSS a
 - finished the project before due time, allowing me to reach out to my mentor with questions
 - had extra time to help others
 
+## Challenges
+
+- finding the aspect of CSS that solved my problem
+- learning what changes Javascript is necessary for
+- making the code as dry as possible
+
 
 ## Sample Images
 
@@ -55,6 +61,10 @@ The purpose of this project is to learn how to design a webpage using only CSS a
 ### I combined the layout of the given static comp with my love of comic books. Here, I can designed a fiction-inspired webpage that can be used to hire the hero of your choice. Each profile gives the hero's name, experience, teams, and hero type, as well as a user input box that could be used (with the help of Javascript which was not used in this project per instructions) to send an inquiry to your hero. I applied shadows to the text that may be hard to see otherwise.
 
 ![Screen Shot 2020-07-19 at 5 20 35 PM](https://user-images.githubusercontent.com/65988644/87888818-2ba63880-c9ec-11ea-8df6-7f8e11e5721e.png)
+
+![Screen Shot 2020-07-19 at 6 25 07 PM](https://user-images.githubusercontent.com/65988644/87889173-7d02f780-c9ed-11ea-9dda-b8aff8361ba0.png)
+
+![Screen Shot 2020-07-19 at 6 26 29 PM](https://user-images.githubusercontent.com/65988644/87889191-9b68f300-c9ed-11ea-91b1-f9da20f5e1ef.png)
 
 
 ### Hover effects give the user a clear understanding of what parts of the site can be interacted with. In the screenshots below, there are examples of how each component responds to the hover interaction.
